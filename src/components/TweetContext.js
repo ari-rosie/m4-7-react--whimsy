@@ -2,7 +2,6 @@ import React, { useState } from 'react';
 
 import avatar from "../assets/carmen-sandiego.png";
 import moment from 'moment';
-import { useEffect } from 'react/cjs/react.production.min';
 
 export const TweetContext = React.createContext(null);
 
